@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @jeremyaza
+- 👀 I'm interested in frontend technologies
